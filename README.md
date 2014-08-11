@@ -5,7 +5,7 @@ This is a way to search Yelp by time. Let's say you're going on a road trip, but
 [yelp-road-trip.herokuapp.com](http://yelp-road-trip.herokuapp.com)
 
 ##How it works:
-The app calcuates your location at the time you want to eat, and does Yelp searches there, 15 minutes before there, and up to 45 minutes after there. It then shows the 9 restaurants with the most number of reviews.
+The app calculates your location at the time you want to eat, and does Yelp searches there, 15 minutes before there, and up to 45 minutes after there. It then shows the 9 restaurants with the most number of reviews.
 
 The "find the best" option is like the regular option, but it searches along the entire route, except the start and end locations. The longer the route is, the more points it will search, and the longer the search will take.
 
